@@ -1,0 +1,17 @@
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication_Table.multiplicationTable.resources
+C:\Users\paulo\source\repos\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication_Table.Properties.Resources.resources
