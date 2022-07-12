@@ -1,0 +1,17 @@
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.exe
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.deps.json
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.runtimeconfig.json
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.runtimeconfig.dev.json
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.dll
+C:\Users\emoda\source\repos\Horoscope\Horoscope\bin\Debug\netcoreapp3.1\Horoscope.pdb
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.csproj.AssemblyReference.cache
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.csproj.GenerateResource.cache
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.AssemblyInfoInputs.cache
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.AssemblyInfo.cs
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.csproj.CoreCompileInputs.cache
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.dll
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.pdb
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.genruntimeconfig.cache
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.Properties.Resources.resources
+C:\Users\emoda\source\repos\Horoscope\Horoscope\obj\Debug\netcoreapp3.1\Horoscope.zodiacSign.resources
