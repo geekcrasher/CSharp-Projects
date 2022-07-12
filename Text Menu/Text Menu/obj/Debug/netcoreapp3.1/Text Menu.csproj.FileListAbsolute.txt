@@ -1,0 +1,17 @@
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.exe
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.deps.json
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.runtimeconfig.json
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.dll
+C:\Users\paulo\source\repos\Text Menu\Text Menu\bin\Debug\netcoreapp3.1\Text Menu.pdb
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text_Menu.textEditor.resources
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text_Menu.Properties.Resources.resources
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.dll
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.pdb
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Text Menu\Text Menu\obj\Debug\netcoreapp3.1\Text Menu.csproj.AssemblyReference.cache
