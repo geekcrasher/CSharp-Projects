@@ -1,0 +1,68 @@
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.exe
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.deps.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.dev.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.AssemblyReference.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.Properties.Resources.resources
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.GenerateResource.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfoInputs.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfo.cs
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.CoreCompileInputs.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.genruntimeconfig.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.EDP.resources
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.exe
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.deps.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.dev.json
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.AssemblyReference.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.EDP.resources
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.Properties.Resources.resources
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.GenerateResource.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfoInputs.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfo.cs
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.CoreCompileInputs.cache
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\emoda\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.genruntimeconfig.cache
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.exe
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.deps.json
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.json
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.dev.json
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.AssemblyReference.cache
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.EDP.resources
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.Properties.Resources.resources
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.GenerateResource.cache
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfoInputs.cache
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfo.cs
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.CoreCompileInputs.cache
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+F:\Paulo\C# Projects\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.genruntimeconfig.cache
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.exe
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.deps.json
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.json
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\bin\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.EDP.resources
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm___Lopez.Properties.Resources.resources
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.AssemblyInfo.cs
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.dll
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.pdb
+C:\Users\paulo\source\repos\LoginForm - Lopez\LoginForm - Lopez\LoginForm - Lopez\obj\Debug\netcoreapp3.1\LoginForm - Lopez.genruntimeconfig.cache
