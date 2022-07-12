@@ -1,0 +1,34 @@
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.exe
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.deps.json
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.json
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.dev.json
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.dll
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.AssemblyReference.cache
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.TowerOfHanoi.resources
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower_of_Hanoi.Properties.Resources.resources
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.GenerateResource.cache
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfoInputs.cache
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfo.cs
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.CoreCompileInputs.cache
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.dll
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+F:\Paulo\C# Projects\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.exe
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.deps.json
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.json
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.dll
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\bin\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.TowerOfHanoi.resources
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower_of_Hanoi.Properties.Resources.resources
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.dll
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.pdb
+C:\Users\paulo\source\repos\Tower Of Hanoi\Tower of Hanoi\obj\Debug\netcoreapp3.1\Tower of Hanoi.genruntimeconfig.cache
