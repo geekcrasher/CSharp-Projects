@@ -3,7 +3,6 @@
 
 ## Collections of my C# Projects
 
-  * Calculator
   * Drinks Menu
   * Horoscope
   * Login Form
