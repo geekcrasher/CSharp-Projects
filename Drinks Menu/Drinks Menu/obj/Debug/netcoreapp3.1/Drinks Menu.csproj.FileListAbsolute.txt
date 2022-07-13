@@ -1,0 +1,68 @@
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.exe
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.deps.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.dev.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.AssemblyReference.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Properties.Resources.resources
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.GenerateResource.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfoInputs.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfo.cs
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.CoreCompileInputs.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.genruntimeconfig.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Menu.resources
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.exe
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.deps.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.dev.json
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.AssemblyReference.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Menu.resources
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Properties.Resources.resources
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.GenerateResource.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfoInputs.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfo.cs
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.CoreCompileInputs.cache
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\emoda\source\repos\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.genruntimeconfig.cache
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.exe
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.deps.json
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.json
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.dev.json
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.AssemblyReference.cache
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Menu.resources
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Properties.Resources.resources
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.GenerateResource.cache
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfoInputs.cache
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfo.cs
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.CoreCompileInputs.cache
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\JCCJ\Documents\Paulo\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.genruntimeconfig.cache
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.exe
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.deps.json
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.json
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.runtimeconfig.dev.json
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\bin\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.AssemblyReference.cache
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Menu.resources
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks_Menu.Properties.Resources.resources
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.GenerateResource.cache
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfoInputs.cache
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.AssemblyInfo.cs
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.csproj.CoreCompileInputs.cache
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.dll
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.pdb
+C:\Users\JCCJ\Documents\Paulo\About Programming\C# Projects\Drinks Menu\Drinks Menu\Drinks Menu\obj\Debug\netcoreapp3.1\Drinks Menu.genruntimeconfig.cache
